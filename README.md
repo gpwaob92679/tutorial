@@ -1,3 +1,3 @@
 # Tutorial
 
-My first git repository. It was a hard decision on whether to use GitHub Desktop and Sourcetree.
+My first git repository. It was a hard decision on whether to use GitHub Desktop or Sourcetree.
