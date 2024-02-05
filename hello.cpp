@@ -1,7 +1,10 @@
-# include <iostream>  // include header file
-using namespace std;  // set namespace to std
+# include <iostream>
+# include <string>
+using namespace std;
 
 int main() {
-    cout << "hello github" ;
+    string input ;
+    getline(cin, input) ;
+    cout << "hello " << input ;
     return 0 ;
 }
